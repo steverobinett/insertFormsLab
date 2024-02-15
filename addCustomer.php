@@ -20,6 +20,8 @@
     $email = $_POST['email'];
     $passwd = $_POST['passwd'];
 
+    echo "form values $fname $lname $email $passwd<br>";
+
   //connect to DB
 
   //setup the SQL
